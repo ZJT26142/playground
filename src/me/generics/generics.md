@@ -1,6 +1,6 @@
 # Generics
 * To create an instance of generic class
-`BashType <Type> obj = new BaseType <Type>()`
+`BaseType <Type> obj = new BaseType <Type>()`
   * Note: In the parameter \<Type\>, one cannot use primitive types.
 * Generic functions can be called with different types of arguments based on the type of arguments 
     passed to generic method, the compiler handles each method.
