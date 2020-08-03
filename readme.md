@@ -6,4 +6,4 @@
         * Iterator
 * Python 
     * Topics:
-        * Testing & Debugging
+        * Program Organization
