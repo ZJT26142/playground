@@ -1,5 +1,9 @@
-# Playground for learning Java
+# Playground 
 * Author: Jitong Zhang
-* Topics:
-    * Generics
-    * Iterator
+* Java
+    * Topics:
+        * Generics
+        * Iterator
+* Python 
+    * Topics:
+        * Testing & Debugging
